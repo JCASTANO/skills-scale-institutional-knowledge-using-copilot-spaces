@@ -14,7 +14,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan (including all applicable roles — see [Roles and Personas](octoacme-roles-and-personas.md))
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
@@ -24,7 +24,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Problem statement:
 - Objective / Goal (SMART):
 - Success metrics:
-- Primary stakeholders:
+- Primary stakeholders (list applicable roles: Product Manager, Project Manager, Developers, QA Lead, UX Designer, Technical Writer, Scrum Master, Support Liaison, SRE):
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
@@ -32,6 +32,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] All applicable roles identified and assigned (see [Role Assignment & Kickoff Checklist](octoacme-role-assignment-and-kickoff-checklist.md))
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
@@ -41,3 +42,4 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+- All required roles have confirmed owners (use the [Role Assignment & Kickoff Checklist](octoacme-role-assignment-and-kickoff-checklist.md))
